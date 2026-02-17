@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0282-expression-add-operators](https://github.com/Lohith811/LEET-CODE/tree/master/0282-expression-add-operators) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Lohith811/LEET-CODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0282-expression-add-operators](https://github.com/Lohith811/LEET-CODE/tree/master/0282-expression-add-operators) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lohith811/LEET-CODE/tree/master/0387-first-unique-character-in-a-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Lohith811/LEET-CODE/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Queue
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Lohith811/LEET-CODE/tree/master/0387-first-unique-character-in-a-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Lohith811/LEET-CODE/tree/master/1704-determine-if-string-halves-are-alike) |
+## Backtracking
+|  |
+| ------- |
+| [0282-expression-add-operators](https://github.com/Lohith811/LEET-CODE/tree/master/0282-expression-add-operators) |
 <!---LeetCode Topics End-->
