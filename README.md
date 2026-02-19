@@ -81,4 +81,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Lohith811/LEET-CODE/tree/master/0867-transpose-matrix) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Lohith811/LEET-CODE/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Lohith811/LEET-CODE/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Lohith811/LEET-CODE/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Lohith811/LEET-CODE/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
