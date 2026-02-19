@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Lohith811/LEET-CODE/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/Lohith811/LEET-CODE/tree/master/0282-expression-add-operators) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lohith811/LEET-CODE/tree/master/0387-first-unique-character-in-a-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Lohith811/LEET-CODE/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Lohith811/LEET-CODE/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Lohith811/LEET-CODE/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/Lohith811/LEET-CODE/tree/master/0282-expression-add-operators) |
 ## Matrix
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Lohith811/LEET-CODE/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lohith811/LEET-CODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lohith811/LEET-CODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Lohith811/LEET-CODE/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lohith811/LEET-CODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Lohith811/LEET-CODE/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lohith811/LEET-CODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lohith811/LEET-CODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Lohith811/LEET-CODE/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lohith811/LEET-CODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Lohith811/LEET-CODE/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lohith811/LEET-CODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lohith811/LEET-CODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Lohith811/LEET-CODE/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lohith811/LEET-CODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
 |  |
