@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Lohith811/LEET-CODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Lohith811/LEET-CODE/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Lohith811/LEET-CODE/tree/master/0283-move-zeroes) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Lohith811/LEET-CODE/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0704-binary-search](https://github.com/Lohith811/LEET-CODE/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Lohith811/LEET-CODE/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/Lohith811/LEET-CODE/tree/master/1314-matrix-block-sum) |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Lohith811/LEET-CODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lohith811/LEET-CODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lohith811/LEET-CODE/tree/master/0145-binary-tree-postorder-traversal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Lohith811/LEET-CODE/tree/master/0373-find-k-pairs-with-smallest-sums) |
 <!---LeetCode Topics End-->
