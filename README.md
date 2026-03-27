@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Lohith811/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Lohith811/LEET-CODE/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0704-binary-search](https://github.com/Lohith811/LEET-CODE/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/Lohith811/LEET-CODE/tree/master/0705-design-hashset) |
 | [0867-transpose-matrix](https://github.com/Lohith811/LEET-CODE/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/Lohith811/LEET-CODE/tree/master/1314-matrix-block-sum) |
 | [1472-design-browser-history](https://github.com/Lohith811/LEET-CODE/tree/master/1472-design-browser-history) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Lohith811/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lohith811/LEET-CODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lohith811/LEET-CODE/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0705-design-hashset](https://github.com/Lohith811/LEET-CODE/tree/master/0705-design-hashset) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lohith811/LEET-CODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1396-design-underground-system](https://github.com/Lohith811/LEET-CODE/tree/master/1396-design-underground-system) |
 ## Sliding Window
@@ -195,12 +197,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/Lohith811/LEET-CODE/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/Lohith811/LEET-CODE/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/Lohith811/LEET-CODE/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/Lohith811/LEET-CODE/tree/master/1603-design-parking-system) |
 ## Linked List
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/Lohith811/LEET-CODE/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/Lohith811/LEET-CODE/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -210,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Lohith811/LEET-CODE/tree/master/1472-design-browser-history) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Lohith811/LEET-CODE/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
