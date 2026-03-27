@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Lohith811/LEET-CODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lohith811/LEET-CODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lohith811/LEET-CODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1396-design-underground-system](https://github.com/Lohith811/LEET-CODE/tree/master/1396-design-underground-system) |
 ## Sliding Window
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lohith811/LEET-CODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Lohith811/LEET-CODE/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Lohith811/LEET-CODE/tree/master/0796-rotate-string) |
+| [1396-design-underground-system](https://github.com/Lohith811/LEET-CODE/tree/master/1396-design-underground-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Lohith811/LEET-CODE/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Queue
 |  |
@@ -191,5 +193,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1396-design-underground-system](https://github.com/Lohith811/LEET-CODE/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/Lohith811/LEET-CODE/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
