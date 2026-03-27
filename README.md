@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Lohith811/LEET-CODE/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Lohith811/LEET-CODE/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/Lohith811/LEET-CODE/tree/master/1314-matrix-block-sum) |
+| [1472-design-browser-history](https://github.com/Lohith811/LEET-CODE/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/Lohith811/LEET-CODE/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Lohith811/LEET-CODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Hash Table
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Lohith811/LEET-CODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lohith811/LEET-CODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lohith811/LEET-CODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [1472-design-browser-history](https://github.com/Lohith811/LEET-CODE/tree/master/1472-design-browser-history) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -194,5 +196,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-design-underground-system](https://github.com/Lohith811/LEET-CODE/tree/master/1396-design-underground-system) |
+| [1472-design-browser-history](https://github.com/Lohith811/LEET-CODE/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/Lohith811/LEET-CODE/tree/master/1603-design-parking-system) |
+## Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Lohith811/LEET-CODE/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Lohith811/LEET-CODE/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Lohith811/LEET-CODE/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
