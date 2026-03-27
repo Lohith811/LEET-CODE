@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Lohith811/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lohith811/LEET-CODE/tree/master/0387-first-unique-character-in-a-string) |
+| [1603-design-parking-system](https://github.com/Lohith811/LEET-CODE/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Lohith811/LEET-CODE/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Backtracking
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Lohith811/LEET-CODE/tree/master/0867-transpose-matrix) |
+| [1603-design-parking-system](https://github.com/Lohith811/LEET-CODE/tree/master/1603-design-parking-system) |
 ## Tree
 |  |
 | ------- |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Lohith811/LEET-CODE/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Lohith811/LEET-CODE/tree/master/0796-rotate-string) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Lohith811/LEET-CODE/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
