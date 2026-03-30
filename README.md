@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lohith811/LEET-CODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lohith811/LEET-CODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Lohith811/LEET-CODE/tree/master/0257-binary-tree-paths) |
+| [0547-number-of-provinces](https://github.com/Lohith811/LEET-CODE/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lohith811/LEET-CODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1600-throne-inheritance](https://github.com/Lohith811/LEET-CODE/tree/master/1600-throne-inheritance) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Lohith811/LEET-CODE/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Lohith811/LEET-CODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Lohith811/LEET-CODE/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Lohith811/LEET-CODE/tree/master/0112-path-sum) |
+| [0547-number-of-provinces](https://github.com/Lohith811/LEET-CODE/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lohith811/LEET-CODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Lohith811/LEET-CODE/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Binary Tree
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Lohith811/LEET-CODE/tree/master/0547-number-of-provinces) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Lohith811/LEET-CODE/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Bit Manipulation
 |  |
@@ -254,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0996-number-of-squareful-arrays](https://github.com/Lohith811/LEET-CODE/tree/master/0996-number-of-squareful-arrays) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Lohith811/LEET-CODE/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
