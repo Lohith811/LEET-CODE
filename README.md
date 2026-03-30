@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/Lohith811/LEET-CODE/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/Lohith811/LEET-CODE/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Lohith811/LEET-CODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Lohith811/LEET-CODE/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Lohith811/LEET-CODE/tree/master/0704-binary-search) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Lohith811/LEET-CODE/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/Lohith811/LEET-CODE/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/Lohith811/LEET-CODE/tree/master/1314-matrix-block-sum) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Lohith811/LEET-CODE/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Simulation
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Lohith811/LEET-CODE/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lohith811/LEET-CODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1600-throne-inheritance](https://github.com/Lohith811/LEET-CODE/tree/master/1600-throne-inheritance) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Lohith811/LEET-CODE/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Lohith811/LEET-CODE/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Lohith811/LEET-CODE/tree/master/0112-path-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lohith811/LEET-CODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Lohith811/LEET-CODE/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Binary Tree
 |  |
 | ------- |
@@ -232,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Lohith811/LEET-CODE/tree/master/0705-design-hashset) |
+## Union-Find
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Lohith811/LEET-CODE/tree/master/1970-last-day-where-you-can-still-cross) |
 <!---LeetCode Topics End-->
