@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Lohith811/LEET-CODE/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Lohith811/LEET-CODE/tree/master/0705-design-hashset) |
 | [0867-transpose-matrix](https://github.com/Lohith811/LEET-CODE/tree/master/0867-transpose-matrix) |
+| [0996-number-of-squareful-arrays](https://github.com/Lohith811/LEET-CODE/tree/master/0996-number-of-squareful-arrays) |
 | [1314-matrix-block-sum](https://github.com/Lohith811/LEET-CODE/tree/master/1314-matrix-block-sum) |
 | [1408-string-matching-in-an-array](https://github.com/Lohith811/LEET-CODE/tree/master/1408-string-matching-in-an-array) |
 | [1472-design-browser-history](https://github.com/Lohith811/LEET-CODE/tree/master/1472-design-browser-history) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lohith811/LEET-CODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0705-design-hashset](https://github.com/Lohith811/LEET-CODE/tree/master/0705-design-hashset) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lohith811/LEET-CODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0996-number-of-squareful-arrays](https://github.com/Lohith811/LEET-CODE/tree/master/0996-number-of-squareful-arrays) |
 | [1396-design-underground-system](https://github.com/Lohith811/LEET-CODE/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/Lohith811/LEET-CODE/tree/master/1600-throne-inheritance) |
 ## Sliding Window
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0282-expression-add-operators](https://github.com/Lohith811/LEET-CODE/tree/master/0282-expression-add-operators) |
+| [0996-number-of-squareful-arrays](https://github.com/Lohith811/LEET-CODE/tree/master/0996-number-of-squareful-arrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Lohith811/LEET-CODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Lohith811/LEET-CODE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lohith811/LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0996-number-of-squareful-arrays](https://github.com/Lohith811/LEET-CODE/tree/master/0996-number-of-squareful-arrays) |
 ## String
 |  |
 | ------- |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Lohith811/LEET-CODE/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Lohith811/LEET-CODE/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/Lohith811/LEET-CODE/tree/master/0282-expression-add-operators) |
+| [0996-number-of-squareful-arrays](https://github.com/Lohith811/LEET-CODE/tree/master/0996-number-of-squareful-arrays) |
 ## Matrix
 |  |
 | ------- |
@@ -241,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Lohith811/LEET-CODE/tree/master/1970-last-day-where-you-can-still-cross) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0996-number-of-squareful-arrays](https://github.com/Lohith811/LEET-CODE/tree/master/0996-number-of-squareful-arrays) |
+## Bitmask
+|  |
+| ------- |
+| [0996-number-of-squareful-arrays](https://github.com/Lohith811/LEET-CODE/tree/master/0996-number-of-squareful-arrays) |
 <!---LeetCode Topics End-->
