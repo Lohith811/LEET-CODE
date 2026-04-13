@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Lohith811/LEET-CODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Lohith811/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Lohith811/LEET-CODE/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Lohith811/LEET-CODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/Lohith811/LEET-CODE/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/Lohith811/LEET-CODE/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Lohith811/LEET-CODE/tree/master/0695-max-area-of-island) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Lohith811/LEET-CODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Lohith811/LEET-CODE/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Lohith811/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Lohith811/LEET-CODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0721-accounts-merge](https://github.com/Lohith811/LEET-CODE/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/Lohith811/LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lohith811/LEET-CODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -384,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Lohith811/LEET-CODE/tree/master/0062-unique-paths) |
+## Greedy
+|  |
+| ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Lohith811/LEET-CODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
