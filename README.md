@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Lohith811/LEET-CODE/tree/master/0705-design-hashset) |
 | [0721-accounts-merge](https://github.com/Lohith811/LEET-CODE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Lohith811/LEET-CODE/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/Lohith811/LEET-CODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/Lohith811/LEET-CODE/tree/master/0867-transpose-matrix) |
 | [0929-unique-email-addresses](https://github.com/Lohith811/LEET-CODE/tree/master/0929-unique-email-addresses) |
 | [0973-k-closest-points-to-origin](https://github.com/Lohith811/LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lohith811/LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Lohith811/LEET-CODE/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/Lohith811/LEET-CODE/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/Lohith811/LEET-CODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0996-number-of-squareful-arrays](https://github.com/Lohith811/LEET-CODE/tree/master/0996-number-of-squareful-arrays) |
 ## String
 |  |
