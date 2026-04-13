@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Lohith811/LEET-CODE/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Lohith811/LEET-CODE/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lohith811/LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/Lohith811/LEET-CODE/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lohith811/LEET-CODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Lohith811/LEET-CODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Lohith811/LEET-CODE/tree/master/0219-contains-duplicate-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Lohith811/LEET-CODE/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Lohith811/LEET-CODE/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Lohith811/LEET-CODE/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/Lohith811/LEET-CODE/tree/master/0867-transpose-matrix) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Lohith811/LEET-CODE/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lohith811/LEET-CODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lohith811/LEET-CODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Lohith811/LEET-CODE/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Lohith811/LEET-CODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Lohith811/LEET-CODE/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Lohith811/LEET-CODE/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Lohith811/LEET-CODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Lohith811/LEET-CODE/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Lohith811/LEET-CODE/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Lohith811/LEET-CODE/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Lohith811/LEET-CODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Lohith811/LEET-CODE/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Lohith811/LEET-CODE/tree/master/0542-01-matrix) |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Lohith811/LEET-CODE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Lohith811/LEET-CODE/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Lohith811/LEET-CODE/tree/master/0695-max-area-of-island) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Lohith811/LEET-CODE/tree/master/1970-last-day-where-you-can-still-cross) |
