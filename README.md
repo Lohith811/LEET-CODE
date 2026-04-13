@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Lohith811/LEET-CODE/tree/master/0705-design-hashset) |
 | [0867-transpose-matrix](https://github.com/Lohith811/LEET-CODE/tree/master/0867-transpose-matrix) |
 | [0996-number-of-squareful-arrays](https://github.com/Lohith811/LEET-CODE/tree/master/0996-number-of-squareful-arrays) |
+| [0997-find-the-town-judge](https://github.com/Lohith811/LEET-CODE/tree/master/0997-find-the-town-judge) |
 | [1314-matrix-block-sum](https://github.com/Lohith811/LEET-CODE/tree/master/1314-matrix-block-sum) |
 | [1408-string-matching-in-an-array](https://github.com/Lohith811/LEET-CODE/tree/master/1408-string-matching-in-an-array) |
 | [1472-design-browser-history](https://github.com/Lohith811/LEET-CODE/tree/master/1472-design-browser-history) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Lohith811/LEET-CODE/tree/master/0705-design-hashset) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lohith811/LEET-CODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0996-number-of-squareful-arrays](https://github.com/Lohith811/LEET-CODE/tree/master/0996-number-of-squareful-arrays) |
+| [0997-find-the-town-judge](https://github.com/Lohith811/LEET-CODE/tree/master/0997-find-the-town-judge) |
 | [1396-design-underground-system](https://github.com/Lohith811/LEET-CODE/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/Lohith811/LEET-CODE/tree/master/1600-throne-inheritance) |
 ## Sliding Window
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Lohith811/LEET-CODE/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Lohith811/LEET-CODE/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Lohith811/LEET-CODE/tree/master/0841-keys-and-rooms) |
+| [0997-find-the-town-judge](https://github.com/Lohith811/LEET-CODE/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Lohith811/LEET-CODE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
