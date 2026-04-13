@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Lohith811/LEET-CODE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Lohith811/LEET-CODE/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/Lohith811/LEET-CODE/tree/master/0867-transpose-matrix) |
+| [0929-unique-email-addresses](https://github.com/Lohith811/LEET-CODE/tree/master/0929-unique-email-addresses) |
 | [0994-rotting-oranges](https://github.com/Lohith811/LEET-CODE/tree/master/0994-rotting-oranges) |
 | [0996-number-of-squareful-arrays](https://github.com/Lohith811/LEET-CODE/tree/master/0996-number-of-squareful-arrays) |
 | [0997-find-the-town-judge](https://github.com/Lohith811/LEET-CODE/tree/master/0997-find-the-town-judge) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lohith811/LEET-CODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0705-design-hashset](https://github.com/Lohith811/LEET-CODE/tree/master/0705-design-hashset) |
 | [0721-accounts-merge](https://github.com/Lohith811/LEET-CODE/tree/master/0721-accounts-merge) |
+| [0929-unique-email-addresses](https://github.com/Lohith811/LEET-CODE/tree/master/0929-unique-email-addresses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lohith811/LEET-CODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0996-number-of-squareful-arrays](https://github.com/Lohith811/LEET-CODE/tree/master/0996-number-of-squareful-arrays) |
 | [0997-find-the-town-judge](https://github.com/Lohith811/LEET-CODE/tree/master/0997-find-the-town-judge) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Lohith811/LEET-CODE/tree/master/0459-repeated-substring-pattern) |
 | [0721-accounts-merge](https://github.com/Lohith811/LEET-CODE/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/Lohith811/LEET-CODE/tree/master/0796-rotate-string) |
+| [0929-unique-email-addresses](https://github.com/Lohith811/LEET-CODE/tree/master/0929-unique-email-addresses) |
 | [1396-design-underground-system](https://github.com/Lohith811/LEET-CODE/tree/master/1396-design-underground-system) |
 | [1408-string-matching-in-an-array](https://github.com/Lohith811/LEET-CODE/tree/master/1408-string-matching-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Lohith811/LEET-CODE/tree/master/1704-determine-if-string-halves-are-alike) |
