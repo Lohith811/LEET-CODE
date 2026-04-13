@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Lohith811/LEET-CODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Lohith811/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Lohith811/LEET-CODE/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0474-ones-and-zeroes](https://github.com/Lohith811/LEET-CODE/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/Lohith811/LEET-CODE/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Lohith811/LEET-CODE/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Lohith811/LEET-CODE/tree/master/0704-binary-search) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Lohith811/LEET-CODE/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lohith811/LEET-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Lohith811/LEET-CODE/tree/master/0198-house-robber) |
+| [0474-ones-and-zeroes](https://github.com/Lohith811/LEET-CODE/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/Lohith811/LEET-CODE/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lohith811/LEET-CODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0996-number-of-squareful-arrays](https://github.com/Lohith811/LEET-CODE/tree/master/0996-number-of-squareful-arrays) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Lohith811/LEET-CODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lohith811/LEET-CODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Lohith811/LEET-CODE/tree/master/0459-repeated-substring-pattern) |
+| [0474-ones-and-zeroes](https://github.com/Lohith811/LEET-CODE/tree/master/0474-ones-and-zeroes) |
 | [0721-accounts-merge](https://github.com/Lohith811/LEET-CODE/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/Lohith811/LEET-CODE/tree/master/0796-rotate-string) |
 | [0929-unique-email-addresses](https://github.com/Lohith811/LEET-CODE/tree/master/0929-unique-email-addresses) |
