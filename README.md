@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Lohith811/LEET-CODE/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/Lohith811/LEET-CODE/tree/master/0867-transpose-matrix) |
 | [0929-unique-email-addresses](https://github.com/Lohith811/LEET-CODE/tree/master/0929-unique-email-addresses) |
+| [0973-k-closest-points-to-origin](https://github.com/Lohith811/LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Lohith811/LEET-CODE/tree/master/0994-rotting-oranges) |
 | [0996-number-of-squareful-arrays](https://github.com/Lohith811/LEET-CODE/tree/master/0996-number-of-squareful-arrays) |
 | [0997-find-the-town-judge](https://github.com/Lohith811/LEET-CODE/tree/master/0997-find-the-town-judge) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Lohith811/LEET-CODE/tree/master/0202-happy-number) |
 | [0282-expression-add-operators](https://github.com/Lohith811/LEET-CODE/tree/master/0282-expression-add-operators) |
+| [0973-k-closest-points-to-origin](https://github.com/Lohith811/LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
 | [0996-number-of-squareful-arrays](https://github.com/Lohith811/LEET-CODE/tree/master/0996-number-of-squareful-arrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Lohith811/LEET-CODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Binary Search
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Lohith811/LEET-CODE/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Lohith811/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/Lohith811/LEET-CODE/tree/master/0721-accounts-merge) |
+| [0973-k-closest-points-to-origin](https://github.com/Lohith811/LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lohith811/LEET-CODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Lohith811/LEET-CODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Lohith811/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Lohith811/LEET-CODE/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0973-k-closest-points-to-origin](https://github.com/Lohith811/LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Lohith811/LEET-CODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Lohith811/LEET-CODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Lohith811/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Lohith811/LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
 | [1763-longest-nice-substring](https://github.com/Lohith811/LEET-CODE/tree/master/1763-longest-nice-substring) |
 ## Bucket Sort
 |  |
@@ -273,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lohith811/LEET-CODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Lohith811/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Lohith811/LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -361,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Lohith811/LEET-CODE/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Lohith811/LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
