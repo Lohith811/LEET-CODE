@@ -1,20 +1,21 @@
 class Solution {
-    public boolean canVisitAllRooms(List<List<Integer>> rooms) {
-        int n= rooms.size();
-        boolean[] vis = new boolean[n];
+public boolean canVisitAllRooms(List<List<Integer>> rooms) {
+        boolean[] visited = new boolean[rooms.size()];   // can also use HashSet instead of Array
+        dfs(0, rooms, visited);
 
-        dfs(0, rooms,vis);
-        for(int i=0; i<n; i++){
-            if(!vis[i]) return false;
+        for(boolean v : visited) {
+            if(v == false) return false;
         }
         return true;
-    }
-    private static void dfs(int node, List<List<Integer>> rooms, boolean[] vis ){
-        vis[node] = true;
-        for(Integer it: rooms.get(node)){
-            if(!vis[it]){
-                dfs(it, rooms, vis);
+        }
+
+        public void dfs(int src, List<List<Integer>> graph, boolean[] visited) {
+            if(visited[src] == true) return;
+            visited[src] = true;
+
+            List<Integer> neighbours = graph.get(src);
+            for(int neighbour : neighbours) {
+                dfs(neighbour, graph, visited);
             }
         }
-    }
 }
