@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lohith811/LEET-CODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/Lohith811/LEET-CODE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Lohith811/LEET-CODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Lohith811/LEET-CODE/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Lohith811/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Lohith811/LEET-CODE/tree/master/0202-happy-number) |
 | [0282-expression-add-operators](https://github.com/Lohith811/LEET-CODE/tree/master/0282-expression-add-operators) |
 | [0996-number-of-squareful-arrays](https://github.com/Lohith811/LEET-CODE/tree/master/0996-number-of-squareful-arrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Lohith811/LEET-CODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Lohith811/LEET-CODE/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/Lohith811/LEET-CODE/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Lohith811/LEET-CODE/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
