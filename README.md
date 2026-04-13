@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Lohith811/LEET-CODE/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Lohith811/LEET-CODE/tree/master/0705-design-hashset) |
 | [0867-transpose-matrix](https://github.com/Lohith811/LEET-CODE/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/Lohith811/LEET-CODE/tree/master/0994-rotting-oranges) |
 | [0996-number-of-squareful-arrays](https://github.com/Lohith811/LEET-CODE/tree/master/0996-number-of-squareful-arrays) |
 | [0997-find-the-town-judge](https://github.com/Lohith811/LEET-CODE/tree/master/0997-find-the-town-judge) |
 | [1314-matrix-block-sum](https://github.com/Lohith811/LEET-CODE/tree/master/1314-matrix-block-sum) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0695-max-area-of-island](https://github.com/Lohith811/LEET-CODE/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/Lohith811/LEET-CODE/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/Lohith811/LEET-CODE/tree/master/0994-rotting-oranges) |
 | [1314-matrix-block-sum](https://github.com/Lohith811/LEET-CODE/tree/master/1314-matrix-block-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Lohith811/LEET-CODE/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Simulation
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Lohith811/LEET-CODE/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lohith811/LEET-CODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Lohith811/LEET-CODE/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Lohith811/LEET-CODE/tree/master/0994-rotting-oranges) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Lohith811/LEET-CODE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Lohith811/LEET-CODE/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
