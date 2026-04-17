@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Lohith811/LEET-CODE/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/Lohith811/LEET-CODE/tree/master/0707-design-linked-list) |
 | [1396-design-underground-system](https://github.com/Lohith811/LEET-CODE/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/Lohith811/LEET-CODE/tree/master/1472-design-browser-history) |
 | [1600-throne-inheritance](https://github.com/Lohith811/LEET-CODE/tree/master/1600-throne-inheritance) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Lohith811/LEET-CODE/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/Lohith811/LEET-CODE/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/Lohith811/LEET-CODE/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
